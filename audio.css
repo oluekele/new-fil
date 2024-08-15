@@ -1,0 +1,36 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.btn {
+  color: blue;
+  background:#FFBBBB;
+  margin: 20px 10px 5px 50px;
+  /* border: 1px solid black ; */
+  border-radius: 30px;
+  padding: 10px;
+  font-size: 40px;
+  font-weight: bold;
+  font-family:'Times New Roman';
+  width: 100px;
+  height: 200px;
+  box-shadow: 5px 5px 40px rgb(79, 79, 196);
+  overflow: hidden;
+  
+  
+}
+input{
+  padding: 5px 0 5px 10px;
+  border-radius: 30px;
+  border: 1px solid rgba(102, 101, 101, 0.37) ;
+  outline: none;
+}
+
+h2{
+  width: 500px;
+  height: 200px;
+  border: 2px solid blue;
+  text-align: center;
+  
+}
